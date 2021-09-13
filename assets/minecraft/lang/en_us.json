@@ -1,0 +1,16 @@
+{
+  "ggdk.message.intoxication": "was too drunk to be alive",
+  
+  "ggdk.advancement.main.title": "GGDK (Geegaz's drinks)        ",
+  "ggdk.advancement.main.description": "Let's drink to us!\n8 new drinks with various effects",
+  
+  "ggdk.item.tequila": "Tequila",
+  "ggdk.item.vodka": "Vodka",
+  "ggdk.item.whiskey": "Whiskey",
+  "ggdk.item.wine": "Wine",
+  "ggdk.item.beer": "Beer",
+  "ggdk.item.cider": "Cider",
+  "ggdk.item.chocolate": "Chocolate",
+  "ggdk.item.tea": "Tea"
+  
+}

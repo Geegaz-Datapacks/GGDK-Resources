@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data":1702001}, "model": "ggdk:item/tequila"},
+		{"predicate": {"custom_model_data":1702002}, "model": "ggdk:item/vodka"},
+		{"predicate": {"custom_model_data":1702003}, "model": "ggdk:item/whiskey"},
+        {"predicate": {"custom_model_data":1702004}, "model": "ggdk:item/wine"},
+        {"predicate": {"custom_model_data":1702005}, "model": "ggdk:item/beer"},
+        {"predicate": {"custom_model_data":1702006}, "model": "ggdk:item/cider"},
+        {"predicate": {"custom_model_data":1702007}, "model": "ggdk:item/chocolate"},
+        {"predicate": {"custom_model_data":1702008}, "model": "ggdk:item/tea"}
+        
+	]
+}

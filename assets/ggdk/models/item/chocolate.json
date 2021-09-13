@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ggdk:item/chocolate",
+        "layer1": "ggdk:item/chocolate"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "ggdk.message.intoxication": "a trop bu pour tenir debout",
+  
+  "ggdk.advancement.main.title": "GGDK (Geegaz's drinks)            ",
+  "ggdk.advancement.main.description": "Buvons à notre santé !\n8 nouvelles boissons aux effets variés",
+  
+  "ggdk.item.tequila": "Tequila",
+  "ggdk.item.vodka": "Vodka",
+  "ggdk.item.whiskey": "Whiskey",
+  "ggdk.item.wine": "Vin",
+  "ggdk.item.beer": "Bière",
+  "ggdk.item.cider": "Cidre",
+  "ggdk.item.chocolate": "Chocolat",
+  "ggdk.item.tea": "Thé"
+  
+}

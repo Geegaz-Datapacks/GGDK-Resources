@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ggdk:item/beer",
+        "layer1": "ggdk:item/beer"
+    }
+}
