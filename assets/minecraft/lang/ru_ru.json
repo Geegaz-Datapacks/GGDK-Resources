@@ -1,0 +1,16 @@
+{
+  "ggdk.message.intoxication": "слишком пьян, что-бы жить",
+  
+  "ggdk.advancement.main.title": "GGDK (Geegaz's drinks)        ",
+  "ggdk.advancement.main.description": "Выпьем же за нас!\n8 новые напитки с различными эффектами",
+  
+  "ggdk.item.tequila": "Текила",
+  "ggdk.item.vodka": "Водка",
+  "ggdk.item.whiskey": "Виски",
+  "ggdk.item.wine": "Вино",
+  "ggdk.item.beer": "Пиво",
+  "ggdk.item.cider": "Сидр",
+  "ggdk.item.chocolate": "Горячий шоколад",
+  "ggdk.item.tea": "Чай"
+  
+}
